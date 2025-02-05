@@ -38,7 +38,11 @@ Visual C++ Redistributable: Contains runtime components of Visual C++ libraries;
 
 <h2>Installation Steps</h2>
 
-<p>
+First, download the provided osTicket Installation files. This will contain the necessary dependencies osTicket requires for us to use it in our VM. We will download those files onto our desktop and extract the files there. Note: this tutorial is made for a VM test environment so some of the configurations are not ideal in a real-world enterprise setting
+
+Next, we're going to enable IIS (Internet Information Services) Navigate to your Control Panel > Programs > Programs & Features
+
+Make sure "Internet Information Services" is checked, and "CGI" is checked:<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
