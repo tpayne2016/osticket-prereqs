@@ -43,7 +43,9 @@ First, download the provided osTicket Installation files. This will contain the 
 Next, we're going to enable IIS (Internet Information Services) Navigate to your Control Panel > Programs > Programs & Features
 
 Make sure "Internet Information Services" is checked, and "CGI" is checked:<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![1](https://github.com/user-attachments/assets/3cf04257-1eda-4f19-99cf-6f1efc49bc36)
+![2](https://github.com/user-attachments/assets/1c53ca90-81e6-4ffd-85f8-a007f101f320)
+![3](https://github.com/user-attachments/assets/0db6c147-2c0e-48a5-bc32-c5dd805015cb)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
